@@ -210,7 +210,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 
 
-<br><br>
+<br>
 
 <h2 align="center"> 
  👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
@@ -219,7 +219,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 </h2>
 
 <br>
-
 
 
 <p align="center">
@@ -302,15 +301,14 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 </p>
 
-
 </div>
 
-<br>
+---
 
 <h3 align="center">⭐ Feel free to explore the projects and give a star if you find them interesting</h3>
 
 
-<br><br><br>
+<br><br><br><br><br>
 
 
 
