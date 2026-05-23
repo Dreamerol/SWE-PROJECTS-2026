@@ -198,7 +198,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 <div align="center" style="max-width:800px; margin:auto; text-align:center;">
   
-<h2>𝗗𝗿𝗮𝘄𝗻 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗵𝗼𝘄 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝘄𝗼𝗿𝗸 𝗯𝗲𝗻𝗲𝗮𝘁𝗵 𝘁𝗵𝗲 𝘀𝘂𝗿𝗳𝗮𝗰𝗲 — 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝘂𝘀𝗶𝗻𝗴 𝘁𝗵𝗲𝗺, 𝗯𝘂𝘁 𝗳𝗲𝗲𝗹𝗶𝗻𝗴 𝗵𝗼𝘄 𝘁𝗵𝗲𝘆 𝗳𝗶𝘁 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿. Over time, this became a steady craft — turning abstract problems into simple, working solutions where structure carries the weight, almost in silence.
+<h2>𝗗𝗿𝗮𝘄𝗻 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝗵𝗼𝘄 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝘄𝗼𝗿𝗸 𝗯𝗲𝗻𝗲𝗮𝘁𝗵 𝘁𝗵𝗲 𝘀𝘂𝗿𝗳𝗮𝗰𝗲 — 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝘂𝘀𝗶𝗻𝗴 𝘁𝗵𝗲𝗺, 𝗯𝘂𝘁 𝗳𝗲𝗲𝗹𝗶𝗻𝗴 𝗵𝗼𝘄 𝘁𝗵𝗲𝘆 𝗳𝗶𝘁 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿. Over time, this became a steady craft — turning abstract problems into simple, working solutions where structure carries the weight, almost in quiet silence.
 
 <hr>
 
